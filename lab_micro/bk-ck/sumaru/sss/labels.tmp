@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328P</DEVICE>
+ <WORKING_DIR>D:\sumaru\sss</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\sumaru\sss\sss.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\sumaru\sss\sss.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\sumaru\sss\sss.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\sumaru\sss\sss.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>18</LINE></RESET>
+  <READ_KEYPAD><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>28</LINE></READ_KEYPAD>
+  <SCAN_KEYPAD><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>83</LINE></SCAN_KEYPAD>
+  <KEYPRESSED><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>55</LINE></KEYPRESSED>
+  <DISP_7SEG><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>60</LINE></DISP_7SEG>
+  <TB_7SEGMENT><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>105</LINE></TB_7SEGMENT>
+  <KEYPAD_TABLE><FILE>D:\sumaru\sss\sss.asm</FILE><LINE>100</LINE></KEYPAD_TABLE>
+ </LABELS>
+</ASSEMBLER_INFO>
